@@ -2,6 +2,7 @@
 使用Wordpress创建基于MySQL的教育网站
 
 限于Github上传大小， 百度云链接 有所有信息
+https://pan.baidu.com/s/1jhrnUY4yGgOd7KQYldQ3GQ 作品链接提取码：FS98
 
 WP教育网站在线预览：
 
