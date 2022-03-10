@@ -1,5 +1,8 @@
 # Wordpress-edu
 使用Wordpress创建基于MySQL的教育网站
+这是一个根据甲方需求创建的教育网站
+
+使用XAMPP在MySQL数据库的服务器上架设面向目标客户需求的精美动态教育网站，附件有WP文件、网站演示、甲方需求及网站线框图。使用了Genesis Columns Advanced plugin; Pricing table by Supsystic; Easy Accordion; Meta Slider-Carousel; Contact Form等插件。 
 
 限于Github上传大小， 百度云链接 有所有信息
 https://pan.baidu.com/s/1jhrnUY4yGgOd7KQYldQ3GQ 作品链接提取码：FS98
